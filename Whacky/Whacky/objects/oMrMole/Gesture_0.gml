@@ -13,6 +13,14 @@ alarm_set(0, 40 + alarm_get(0));
 sprite_index = sWhackedMrMole;
 image_index = 0;
 
+/// @DnDAction : YoYo Games.Instance Variables.Set_Score
+/// @DnDVersion : 1
+/// @DnDHash : 2D66683F
+/// @DnDArgument : "score" "1"
+/// @DnDArgument : "score_relative" "1"
+if(!variable_instance_exists(id, "__dnd_score")) __dnd_score = 0;
+__dnd_score += real(1);
+
 /// @DnDAction : YoYo Games.Audio.Play_Audio
 /// @DnDVersion : 1.1
 /// @DnDHash : 614AC6D2
