@@ -35,8 +35,8 @@
   "name":"Whacky",
   "resources":[
     {"id":{"name":"Font1","path":"fonts/Font1/Font1.yy",},},
-    {"id":{"name":"oCurrentScore","path":"objects/oCurrentScore/oCurrentScore.yy",},},
     {"id":{"name":"oBoard","path":"objects/oBoard/oBoard.yy",},},
+    {"id":{"name":"oCurrentScore","path":"objects/oCurrentScore/oCurrentScore.yy",},},
     {"id":{"name":"oFourHoles","path":"objects/oFourHoles/oFourHoles.yy",},},
     {"id":{"name":"oMrMole","path":"objects/oMrMole/oMrMole.yy",},},
     {"id":{"name":"oThreeHoles","path":"objects/oThreeHoles/oThreeHoles.yy",},},
@@ -47,6 +47,7 @@
     {"id":{"name":"sBoard","path":"sprites/sBoard/sBoard.yy",},},
     {"id":{"name":"sFourHoles","path":"sprites/sFourHoles/sFourHoles.yy",},},
     {"id":{"name":"sMrMole","path":"sprites/sMrMole/sMrMole.yy",},},
+    {"id":{"name":"Sprite7","path":"sprites/Sprite7/Sprite7.yy",},},
     {"id":{"name":"sThreeHoles","path":"sprites/sThreeHoles/sThreeHoles.yy",},},
     {"id":{"name":"sWhackedMrMole","path":"sprites/sWhackedMrMole/sWhackedMrMole.yy",},},
   ],

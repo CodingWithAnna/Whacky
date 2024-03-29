@@ -25,6 +25,7 @@
     {"name":"sBoard","order":1,"path":"sprites/sBoard/sBoard.yy",},
     {"name":"sFourHoles","order":3,"path":"sprites/sFourHoles/sFourHoles.yy",},
     {"name":"sMrMole","order":2,"path":"sprites/sMrMole/sMrMole.yy",},
+    {"name":"Sprite7","order":5,"path":"sprites/Sprite7/Sprite7.yy",},
     {"name":"sThreeHoles","order":4,"path":"sprites/sThreeHoles/sThreeHoles.yy",},
     {"name":"sWhackedMrMole","order":5,"path":"sprites/sWhackedMrMole/sWhackedMrMole.yy",},
   ],
