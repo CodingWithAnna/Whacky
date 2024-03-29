@@ -1,13 +1,13 @@
 {
   "$GMObject":"",
-  "%Name":"Object1",
+  "%Name":"oThreeHoles",
   "eventList":[],
   "managed":true,
-  "name":"Object1",
+  "name":"oThreeHoles",
   "overriddenProperties":[],
   "parent":{
-    "name":"Whacky",
-    "path":"Whacky.yyp",
+    "name":"Objects",
+    "path":"folders/Objects.yy",
   },
   "parentObjectId":null,
   "persistent":false,
@@ -27,7 +27,10 @@
   "resourceType":"GMObject",
   "resourceVersion":"2.0",
   "solid":false,
-  "spriteId":null,
+  "spriteId":{
+    "name":"sThreeHoles",
+    "path":"sprites/sThreeHoles/sThreeHoles.yy",
+  },
   "spriteMaskId":null,
   "visible":true,
 }
